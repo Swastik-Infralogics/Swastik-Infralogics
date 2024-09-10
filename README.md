@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swastik-Infralogics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my github webpage
 - 📫 How to reach me nagaraj.b@swastikinfralogics.com
 
 
